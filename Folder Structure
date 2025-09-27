@@ -1,0 +1,18 @@
+
+
+src/
+  components/
+    Header.jsx
+    Hero.jsx
+    Categories.jsx
+    FeaturedProducts.jsx
+    Testimonials.jsx
+    About.jsx
+    Footer.jsx
+    WhatsAppCTA.jsx
+  pages/
+    Home.jsx
+  App.jsx
+  index.js
+  models/       // place your 3D GLTF car here
+
