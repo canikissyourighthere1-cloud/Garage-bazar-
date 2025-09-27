@@ -1,0 +1,4 @@
+npx create-react-app garage-bazar-india
+cd garage-bazar-india
+npm install tailwindcss framer-motion @react-three/fiber @react-three/drei react-router-dom three
+npx tailwindcss init -p
